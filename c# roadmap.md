@@ -4,7 +4,7 @@ Reference can be found here :
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/
 
-* [ ] Statements & Operators
+* [x] Statements & Operators
 	* [ ] Statements
 	* [ ] Expressions
 	* [ ] Anonymous Functions
